@@ -18,6 +18,8 @@ public class BpmCounter {
        new AppWindow();
     }
 
+
+
     public int getInstances() {
         return instances;
     }
